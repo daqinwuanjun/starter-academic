@@ -32,6 +32,9 @@ address:
 coordinates:
   latitude: 
   longitude: 
+directions: 
+office_hours:
+contact_links:
 
 
 # Site header
