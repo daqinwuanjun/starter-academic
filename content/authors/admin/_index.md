@@ -45,4 +45,4 @@ Hi! My name is Jipeng Liu (刘季朋), and I am currently a research associate a
 
 
 
-{{< icon name="download" pack="fas" >}} Download my [resumé](https://drive.google.com/file/d/1BR7EtYgRAyYitC9cPQeyEHNWV9jEhqxk/view?usp=sharing).
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume%20210719.pdf" "newtab" >}}resumé{{< /staticref >}}.
