@@ -11,7 +11,7 @@ image:
   focal_point: ""
   placement: 2
   preview_only: true
-lastmod: "2020-12-13T00:00:00Z"
+lastmod: "2020-12-13"
 projects: []
 subtitle: "There is no doubt that anthropogenic carbon emission is an important driver of the diminishing Arctic sea ice extent. Moreover, a rather consensual view suggests that the very nature of the Arctic system (i.e. channels for various feedback loops) leads to the amplification of such external shocks, making the Arctic warm faster than anywhere else on Earth."
 summary: "There is no doubt that anthropogenic carbon emission is an important driver of the diminishing Arctic sea ice extent. Moreover, a rather consensual view suggests that the very nature of the Arctic system (i.e. channels for various feedback loops) leads to the amplification of such external shocks, making the Arctic warm faster than anywhere else on Earth."
