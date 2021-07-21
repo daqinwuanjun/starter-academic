@@ -1,18 +1,19 @@
+theme: "starter-hugo-academic"
 # Configuration of Hugo
 # Guide: https://wowchemy.com/docs/getting-started/
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
-baseurl: 'https://example.com/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+title: Jipeng Liu # Website name
+baseurl: jipengliu.com # Website URL
+copyright: '© Copyright 2021, Jipeng Liu' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
 ############################
 
 defaultContentLanguage: en
-hasCJKLanguage: false
+hasCJKLanguage: true
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 
@@ -22,8 +23,8 @@ removePathAccents: true
 
 module:
   imports:
-    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5
-    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
+    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms
+    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy
 
 ############################
 ## ADVANCED
@@ -38,6 +39,7 @@ footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
   event: '/talk/:slug/'
+  authors: '/author/:slug/'
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
   publication_types: '/publication-type/:slug/'
@@ -45,6 +47,16 @@ disableAliases: true
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
   section: [HTML, RSS]
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    codeFences: false
+  tableOfContents:
+    startLevel: 2
+    endLevel: 3
 imaging:
   resampleFilter: lanczos
   quality: 75
@@ -53,10 +65,8 @@ timeout: 600000
 taxonomies:
   tag: tags
   category: categories
-  publication_type: publication_types
+  publication_type: publication_types 
   author: authors
-markup:
-  _merge: deep
 related:
   threshold: 80
   includeNewer: true
