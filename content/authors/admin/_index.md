@@ -33,7 +33,7 @@ superuser: true
 highlight_name: false
 ---
 
-Hi! My name is Jipeng Liu (刘季朋), and I am currently a research associate at Harvard Business School working on topics about financial innovations, financial institutions and SEC regulations. Graduated from University of Pennsylvania, I am instrested in pursuing graduate studies in economics or finance. My current research insterest lies at the nexus of empirical macroeconomics and financial economics. 
+Hi! I am currently a research associate at Harvard Business School working on topics about financial innovations, financial institutions and SEC regulations. Graduated from University of Pennsylvania, I am instrested in pursuing graduate studies in economics or finance. My current research insterest lies at the nexus of empirical macroeconomics and financial economics. 
 
 
 
