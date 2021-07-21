@@ -3,13 +3,15 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: portfolio
 
+active: true
+
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 30
 
-title: Projects
+title: Academic Projects
 subtitle: ''
 
 content:
@@ -27,10 +29,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Finance
+    tag: Fnce
+  - name: Economics
+    tag: Econ
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
