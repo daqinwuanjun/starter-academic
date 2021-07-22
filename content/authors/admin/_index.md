@@ -33,7 +33,7 @@ superuser: true
 highlight_name: false
 ---
 
-Hi! I am currently a research associate at Harvard Business School working on topics about financial innovations, financial institutions and SEC regulations. Graduated from University of Pennsylvania, I am intrested in pursuing graduate studies in economics or finance. My current research interest lies at the nexus of empirical macroeconomics and financial economics. 
+Hi! I am currently a research associate at Harvard Business School working on topics about financial innovations, financial institutions and SEC regulations. Graduated from University of Pennsylvania, I am interested in pursuing graduate studies in economics or finance. My current research interest lies at the nexus of empirical macroeconomics and financial economics. 
 
 
 
