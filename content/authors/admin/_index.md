@@ -22,7 +22,7 @@ organizations:
     url: https://www.hbs.edu/Pages/default.aspx
 education:
   courses:
-    - course: B.Sc., Economics (Concentration in Statistis and Finance)
+    - course: B.Sc., Economics (Concentration in Statistics and Finance)
       institution: The Wharton School, UPenn
       year: 2021
     - course: B.A., Mathematical Economics (Honors)
