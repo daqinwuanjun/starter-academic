@@ -1,12 +1,9 @@
 ---
 title: Jipeng Liu
 role: Research Associate
-bio: A researcher inspired by the great _Economist, Philosopher, Statesman_ John
-  Maynard Keynes
 interests:
   - Financial economics
   - Macroeconomics
-  - Time series econometrics
 social:
   - icon: envelope
     icon_pack: fas
