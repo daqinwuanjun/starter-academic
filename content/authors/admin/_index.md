@@ -1,6 +1,6 @@
 ---
 title: Jipeng Liu
-role: Research Associate
+role: Finance PhD Student
 interests:
   - Financial economics
   - Macroeconomics
@@ -15,8 +15,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/jipeng-liu-85b5419b/
 organizations:
-  - name: Harvard Business School
-    url: https://www.hbs.edu/Pages/default.aspx
+  - name: Stanford Graduate School of Business
+    url: https://www.gsb.stanford.edu/
 education:
   courses:
     - course: B.Sc., Economics (Concentration in Statistics and Finance)
@@ -30,10 +30,10 @@ superuser: true
 highlight_name: false
 ---
 
-Hi! I am currently a research associate at Harvard Business School working on topics about financial innovations, financial institutions and SEC regulations. Graduated from University of Pennsylvania, I am interested in pursuing graduate studies in economics or finance. My current research interest lies at the nexus of empirical macroeconomics and financial economics. 
+Hi! I am currently a first-year Finance PhD student at Stanford GSB interested in macro-finance and international finance. Prior to graduate school, I received my undergraduate degrees from University of Pennsylvania and worked as a pre-doctoral research fellow at Harvard Business School.
 
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume%20210719.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume_11282022.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
