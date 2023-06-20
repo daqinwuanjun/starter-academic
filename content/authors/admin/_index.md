@@ -1,5 +1,5 @@
 ---
-title: Jipeng Liu
+title: Jipeng (Tony) Liu
 role: Finance PhD Student
 interests:
   - Financial economics

@@ -3,7 +3,7 @@ abstract: In this paper, I present a theory-based urban model that relates commu
 
 authors:
 - admin
-date: "2021-07-09T00:00:00Z"
+date: "2023-07-09T00:00:00Z"
 doi: ""
 featured: false
 image:
