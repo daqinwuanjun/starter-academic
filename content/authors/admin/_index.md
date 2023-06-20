@@ -30,7 +30,7 @@ superuser: true
 highlight_name: false
 ---
 
-Hi! I am currently a first-year Finance PhD student at Stanford GSB interested in macro-finance and international finance. Prior to graduate school, I received my undergraduate degrees from University of Pennsylvania and worked as a pre-doctoral research fellow at Harvard Business School.
+Hi! I am a first-year Finance PhD student at Stanford GSB interested in macro-finance and international finance. Prior to graduate school, I received my undergraduate degrees from University of Pennsylvania and worked as a pre-doctoral research fellow at Harvard Business School.
 
 
 
