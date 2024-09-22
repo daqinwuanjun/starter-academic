@@ -4,7 +4,7 @@ authors:
 categories:
 - Chinese philosophy
 date: "2021-04-13"
-draft: false
+draft: true
 featured: false
 image:
   caption: 'Wang Yangming'

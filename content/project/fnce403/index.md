@@ -1,6 +1,7 @@
 ---
 date: "2021-05-14T00:00:00Z"
 external_link: https://drive.google.com/file/d/1-b23ML0aAYdCAcZSUEQeQltU5NjX_AVs/view?usp=sharing
+draft: true
 image:
   caption: The growing trend in ESG investing 
   focal_point: Smart
