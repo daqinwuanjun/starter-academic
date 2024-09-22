@@ -4,7 +4,7 @@ authors:
 categories:
 - Environment
 date: "2020-12-13T00:00:00Z"
-draft: false
+draft: true
 featured: false
 image:
   caption: 'Arctic sea ice concentration decrease'
