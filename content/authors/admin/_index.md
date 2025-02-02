@@ -35,5 +35,5 @@ Hi! I am a Finance PhD student at Stanford GSB interested in financial innovatio
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume_11282022.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_20250130.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
