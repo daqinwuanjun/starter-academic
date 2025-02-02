@@ -2,8 +2,8 @@
 title: Jipeng (Tony) Liu
 role: Finance PhD Student
 interests:
-  - Financial economics
-  - Macroeconomics
+  - Financial innovation
+  - Financial intermediation
 social:
   - icon: envelope
     icon_pack: fas
@@ -30,7 +30,7 @@ superuser: true
 highlight_name: false
 ---
 
-Hi! I am a Finance PhD student at Stanford GSB interested in financial innovations and macro-finance. Prior to graduate school, I received my undergraduate degrees from University of Pennsylvania and worked as a pre-doctoral research fellow at Harvard Business School.
+Hi! I am a Finance PhD student at Stanford GSB interested in financial innovation, financial intermediation and macro-finance. Prior to graduate school, I received my undergraduate degrees from University of Pennsylvania and worked as a pre-doctoral research fellow at Harvard Business School.
 
 
 
