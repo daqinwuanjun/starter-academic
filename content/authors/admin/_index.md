@@ -2,6 +2,7 @@
 title: Jipeng (Tony) Liu
 role: Finance PhD Student
 interests:
+  - Private capital markets
   - Financial innovation
   - Financial intermediation
 social:
@@ -30,10 +31,10 @@ superuser: true
 highlight_name: false
 ---
 
-Hi! I am a Finance PhD student at Stanford GSB interested in financial innovation, financial intermediation and macro-finance. Prior to graduate school, I received my undergraduate degrees from University of Pennsylvania and worked as a pre-doctoral research fellow at Harvard Business School.
+Hi! I am a Finance PhD student at Stanford GSB interested in private capital markets, financial innovation, and financial intermediation. Prior to graduate school, I received my undergraduate degrees from University of Pennsylvania and worked as a pre-doctoral research fellow at Harvard Business School.
 
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_20250130.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_20260715.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
