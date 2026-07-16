@@ -3,6 +3,7 @@ title: The Rise of Private Credit and Lending Competition with Banks
 
 authors:
 - admin
+- Chun Zhao
 
 date: "2026-07-15T00:00:00Z"
 publishDate: "2026-07-15T00:00:00Z"
