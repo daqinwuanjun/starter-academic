@@ -1,6 +1,9 @@
 ---
 title: The Rise of Private Credit and Lending Competition with Banks
 
+# Page is hidden from the public site while true; change to false when ready to publish.
+draft: true
+
 authors:
 - admin
 - Chun Zhao
