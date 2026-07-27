@@ -1,8 +1,8 @@
 ---
-title: The Rise of Private Credit and Lending Competition with Banks
+title: The Rise of Private Credit and Lending Competition with Banks (draft coming soon)
 
 # Page is hidden from the public site while true; change to false when ready to publish.
-draft: true
+draft: false
 
 authors:
 - admin
@@ -23,5 +23,6 @@ abstract: |-
   Building on these facts, we estimate a logit demand model for PC and bank credit products. We find that borrowers exhibit a strong and increasing excess demand for PC loans, indicating that borrowers' unobserved preferences contribute to the rise of PC lending. To account for supply-side forces, we develop a structural model—consistent with the stylized facts and built on the estimated demand curves—in which banks and PC funds compete in lending under different regulatory, technological, and funding parameters. From estimating the model, we find that banks face substantially higher capital requirements on direct corporate lending than on lending to PC funds, and that PC funds possess a superior lending technology in serving highly levered borrowers. Counterfactual analysis suggests that banking regulatory arbitrage contributes significantly to the *level* of PC lending, while the recent inflows of institutional capital into PC funds are the most plausible driver of its rapid time-series growth.
 summary: ""
 
-url_pdf: "https://www.dropbox.com/scl/fi/y0w1jgibynl5esgrurd23/main.pdf?rlkey=0scuojwadoju7n5ae61w96570&st=d77cgnr2&dl=0"
+# PDF link disabled until the draft is ready — uncomment to restore the button.
+#url_pdf: "https://www.dropbox.com/scl/fi/y0w1jgibynl5esgrurd23/main.pdf?rlkey=0scuojwadoju7n5ae61w96570&st=d77cgnr2&dl=0"
 ---
